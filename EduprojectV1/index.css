@@ -1,0 +1,58 @@
+h1{
+    font-weight: 700;
+    color: black;
+    text-align: center;
+    font-size: 5em;
+}
+
+h2{
+   font-size: 4em;
+   color: hwb(0 8% 7%);
+   font-family: 'Times New Roman', Times, serif;
+
+}
+
+.subtopic{
+font: 3em sans-serif;
+
+
+}
+
+body {
+    background-image:url("class room.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+ 
+}
+.btn-search{
+font: 2em sans-serif;
+color: green;
+padding-left: 0.4em;
+padding-top:0.4em;
+padding-right:0.4em;
+padding-bottom: 0.4em;
+border-radius: 1em;
+
+}
+
+.btn-search:hover{
+   background-color: rgb(180, 231, 14);
+
+}
+
+input{
+    font: 1em sans-serif;
+    color: green;
+    padding-left: 0.4em;
+    padding-top :0.4em;
+    padding-right:0.4em;
+    padding-bottom: 0.4em;
+    
+
+}
+
+#topics{
+    color: rgb(250, 246, 247);
+    font-size: 1.5em;
+
+}
